@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email">E-mail</string>
+    <string name="logbutton">Login in</string>
+    <string name="password">Password</string>
+    <string name="singbutt">No account yet? Create one</string>
+    <string name="test">Test connection to database</string>
+    <string name="Teacher">Are you teacher?</string>
+    <string name="Team">Function</string>
+    <string name="Surname">Surname</string>
+    <string name="Repassword">Re-Password</string>
+    <string name="Name">Name</string>
+    <string name="signup">Sign up!</string>
+    <string name="Settings">Settings</string>
+    <string name="About">About</string>
+    <string name="Members">Members</string>
+    <string name="Twinspace">Twinspace</string>
+    <string name="Our_Website">Our Website</string>
+    <string name="Dev_Panel">Dev Panel</string>
+    <string name="Support">Support</string>
+    <string name="Project_File">Project File</string>
+    <string name="Forum">Forum</string>
+    <string name="Project_Journal">Project Journal</string>
+    <string name="loginin">Would you like to login without password?</string>
+    <string name="login_in">Login In</string>
+    <string name="description">Description</string>
+    <string name="facebook">Facebook profile</string>
+    <string name="notofication">Enable notifications about new posts.</string>
+    <string name="notif">Notification</string>
+</resources>
